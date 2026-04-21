@@ -1,12 +1,24 @@
 ### Temario Para Python
 
-Es una serie de archivos Python en orden para enseñarlo, se busca antes de enseñar palabras reservadas o estructura de control, enseñar la manipulación de los datos posibles de Python para que cuando se llege la hora de enseñar estructuras de control y demás, tengan ya por herramienta esta manipulación de datos
+Este repositorio contiene una secuencia de archivos Python diseñados como guía docente para la enseñanza del lenguaje. A diferencia de los métodos tradicionales, este temario prioriza la manipulación de datos antes que la introducción de estructuras de control o palabras reservadas.
 
-Los archivos proporcionados NO están pensados para que el alumno completamente nuevo y sin conocimiento sobre programación lo lea o sea autodidacta, a menos de que el alumno ya tenga experiencia en programación, se deberá explicar el tema/feature de Python con detalle y proveer más ejemplos que los que se proporciona. La intencion es que sea una guía para el tutor que está impartiendo la clase
+La filosofía de este curso es que el alumno debe dominar las herramientas (datos) antes de aprender a construir la lógica (control).
 
-Los ejemplos y algunas explicaciones son una mezcla de información entre Videos, Cursos y Documentación de Python:
+**Enfoque**: Manipulación total de tipos de datos, métodos y colecciones.
 
-*El contenido de los cursos simplemente se tomó como guía, muchos ejemplos de ello no están*
+**Público objetivo**: Diseñado para tutores como apoyo de clase. No es un material de autoestudio para principiantes absolutos, a menos que el alumno ya posea experiencia previa en programación.
+
+Contenido del curso, están enumerados en orden de complejidad:
+
+1. **Variables**: Tipos de datos, Casting de tipos, Variables.
+2. **Operadores**: Aritméticos, De Asignación, De Comparación, Bit a Bit, Lógicos.
+3. **Entrada y salida del sistema**: stdin (input), stdout (print).
+4. **Strings**: Métodos, Formateo, Slicing, entre otros.
+5. **Estructuras de datos**: Listas, Tuplas, Conjuntos, Diccionarios, Desempaquetado, Métodos.
+
+Lógica de Control: (A introducir una vez dominados los puntos anteriores).
+
+*Este material es una curación y síntesis de mejores prácticas provenientes de:*
 
  **Cursos:**
  * [Dalto - Python desde cero](https://youtu.be/nKPbfIU442g?si=ybUaPJyxxPW5yH1k)
