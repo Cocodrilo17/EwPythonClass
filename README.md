@@ -7,6 +7,7 @@ Los archivos proporcionados NO están pensados para que el alumno completamente 
 Los ejemplos y algunas explicaciones son una mezcla de información entre Videos, Cursos y Documentación de Python:
 
 *El contenido de los cursos simplemente se tomó como guía, muchos ejemplos de ello no están*
+
  **Cursos:**
  * [Dalto - Python desde cero](https://youtu.be/nKPbfIU442g?si=ybUaPJyxxPW5yH1k)
  * [Dalto - POO](https://youtu.be/HtKqSJX7VoM?si=nPct4SMOUp93Gj8U)
