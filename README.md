@@ -1,4 +1,4 @@
-### Temario Para Python
+# Python Data-First Roadmap
 
 Este repositorio contiene una secuencia de archivos Python diseñados como guía docente para la enseñanza del lenguaje. A diferencia de los métodos tradicionales, este temario prioriza la manipulación de datos antes que la introducción de estructuras de control o palabras reservadas.
 
